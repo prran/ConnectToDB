@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnalyseTableInMySQL</string>
+    <string name="server_domain">Server domain</string>
+    <string name="db_name">Database name</string>
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="mysql_logo_failed">MySQL Login</string>
+    <string name="login_button">Login</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/table_enter"
+    android:layout_width="match_parent"
+    android:layout_height="71dp"
+    android:background="#BBEEEE"
+    android:text="theButtn">
+
+</Button>
